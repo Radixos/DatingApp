@@ -1,0 +1,2 @@
+in terminal in /api: "dotnet run"
+in terminal in /client: "npm start" or "ng serve"
